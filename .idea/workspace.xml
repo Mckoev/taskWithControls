@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb303f55-23b9-4199-a266-2468dc2502cd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/syntellect-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/apiService.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/countries.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/buttons/MuiButton.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/controls/ControlAutocomplete.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/controls/ControllButtons.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/constants.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useControlButtonLogic.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mobx/stateControlAutocomplete.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mobx/stateControllButtons.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/react-app-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reportWebVitals.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/setupTests.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/interfaces.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Hzxe4ELPFIdyPu238MbF43cf31" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/1/react/syntellect-app&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\User\\Desktop\\1\\react\\syntellect-app\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\1\react\syntellect-app\src\components\controls" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb303f55-23b9-4199-a266-2468dc2502cd" name="Changes" comment="" />
+      <created>1669301805189</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669301805189</updated>
+      <workItem from="1669301806756" duration="92000" />
+      <workItem from="1669457267032" duration="2577000" />
+      <workItem from="1669546302378" duration="18365000" />
+      <workItem from="1669567972366" duration="23217000" />
+      <workItem from="1669594207399" duration="1422000" />
+      <workItem from="1669595676803" duration="2514000" />
+      <workItem from="1669599242099" duration="664000" />
+      <workItem from="1669625332350" duration="366000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
